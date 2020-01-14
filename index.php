@@ -25,10 +25,10 @@
   <link href="assets/css/animate.css" rel="stylesheet" type="text/css" />
 
   <!--== fontawesome -->
-  <link href="fonts/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" />
+  <link href="assets/fonts/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" />
 
   <!--== line-awesome -->
-  <link href="fonts/line-awesome/css/line-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link href="assets/fonts/line-awesome/css/line-awesome.min.css" rel="stylesheet" type="text/css" />
 
   <!--== magnific-popup -->
   <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
