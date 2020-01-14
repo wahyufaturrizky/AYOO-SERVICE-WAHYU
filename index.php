@@ -28,10 +28,10 @@
   <!-- <link rel="stylesheet" type="text/css" href="./vendor/fonts/font/flaticon.css"> -->
 
   <!--== fontawesome -->
-  <link href="vendor/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" />
+  <link href="fonts/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" />
 
   <!--== line-awesome -->
-  <link href="vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link href="fonts/line-awesome/css/line-awesome.min.css" rel="stylesheet" type="text/css" />
 
   <!--== magnific-popup -->
   <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
