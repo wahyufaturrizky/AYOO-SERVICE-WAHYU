@@ -24,9 +24,6 @@
   <!--== animate -->
   <link href="assets/css/animate.css" rel="stylesheet" type="text/css" />
 
-  <!--== flaticon -->
-  <!-- <link rel="stylesheet" type="text/css" href="./vendor/fonts/font/flaticon.css"> -->
-
   <!--== fontawesome -->
   <link href="fonts/fontawesome/css/all.min.css" rel="stylesheet" type="text/css" />
 
